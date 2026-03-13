@@ -1,6 +1,6 @@
 # 🎬 OpenClaw Tools
 
-OpenClaw 视频处理工具集
+OpenClaw AI 视频处理工具集 | Made with ❤️ by LeoKan
 
 ## 功能
 
@@ -29,6 +29,10 @@ python scripts/auto_gen.py
 python scripts/concat_story.py
 `
 
+## 视频素材
+
+素材来源：[Pexels](https://www.pexels.com/)
+
 ---
 
-Made with ❤️ by OpenClaw AI
+**OpenClaw AI** | LeoKan
