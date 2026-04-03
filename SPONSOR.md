@@ -3,7 +3,7 @@
 <details>
 <summary style="cursor: pointer; color: #0969da; margin-top: 10px; font-size: 13px;">💰 微信/支付宝扫码赞助（点击展开）</summary>
 
-<img src="alipay-donate.jpg" alt="支付宝收款码" width="100" style="border-radius: 6px; margin-top: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+<img src="alipay-donate.jpg" alt="支付宝收款码" style="max-width: 100px; border-radius: 8px; margin-top: 8px;">
 
 <p style="font-size: 12px; color: #666; margin-top: 4px;">长按识别二维码赞助</p>
 
